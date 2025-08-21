@@ -15,7 +15,7 @@ class Config:
     PORT = int(os.getenv("PORT", "8000"))
     
     # CORS Configuration
-    ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173,http://localhost:8080,http://localhost:8081,http://127.0.0.1:5173").split(",")
+    ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "https://astrologer-tawny.vercel.app,https://astrologer-weflys-projects.vercel.app,https://astrologer-git-main-weflys-projects.vercel.app").split(",")
     
     # Model Configuration
     MODEL_NAME = os.getenv("MODEL_NAME", "llama-3.1-8b-instant")
