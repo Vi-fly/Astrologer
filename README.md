@@ -18,9 +18,9 @@ Welcome to **Pandit Pradeep Kiradoo's** comprehensive Vedic Astrology consultati
    ```
 
 2. **Start Development Server**:
-   ```bash
+```bash
 npm run dev
-```
+   ```
 
 3. **Access Application**:
    - Open `http://localhost:5173/` in your browser
