@@ -18,8 +18,8 @@ Welcome to **Pandit Pradeep Kiradoo's** comprehensive Vedic Astrology consultati
    ```
 
 2. **Start Development Server**:
-```bash
-npm run dev
+   ```bash
+   npm run dev
    ```
 
 3. **Access Application**:
